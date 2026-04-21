@@ -1,0 +1,14 @@
+/home/victor/Documentos/ForExercise/bin/Debug/net8.0/ForExercise
+/home/victor/Documentos/ForExercise/bin/Debug/net8.0/ForExercise.deps.json
+/home/victor/Documentos/ForExercise/bin/Debug/net8.0/ForExercise.runtimeconfig.json
+/home/victor/Documentos/ForExercise/bin/Debug/net8.0/ForExercise.dll
+/home/victor/Documentos/ForExercise/bin/Debug/net8.0/ForExercise.pdb
+/home/victor/Documentos/ForExercise/obj/Debug/net8.0/ForExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Documentos/ForExercise/obj/Debug/net8.0/ForExercise.AssemblyInfoInputs.cache
+/home/victor/Documentos/ForExercise/obj/Debug/net8.0/ForExercise.AssemblyInfo.cs
+/home/victor/Documentos/ForExercise/obj/Debug/net8.0/ForExercise.csproj.CoreCompileInputs.cache
+/home/victor/Documentos/ForExercise/obj/Debug/net8.0/ForExercise.dll
+/home/victor/Documentos/ForExercise/obj/Debug/net8.0/refint/ForExercise.dll
+/home/victor/Documentos/ForExercise/obj/Debug/net8.0/ForExercise.pdb
+/home/victor/Documentos/ForExercise/obj/Debug/net8.0/ForExercise.genruntimeconfig.cache
+/home/victor/Documentos/ForExercise/obj/Debug/net8.0/ref/ForExercise.dll
