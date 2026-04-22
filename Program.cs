@@ -40,7 +40,7 @@ public class Programa {
         if (ShotInput == "s")
         {
 
-            Console.WriteLine(items.Length);
+            Console.WriteLine($"you have: {items.Length} items in your backpack");
 
         }
 
