@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "T9ClawsVTkieldvnwW2pN17diQ9ymqq07au12xn3piiXTyI1wEB9ayJ2XWAPvTmDYoi64ybvgb4WSDGRfu3CRw==",
+  "dgSpecHash": "+esABXTSdUA=",
   "success": true,
   "projectFilePath": "/home/victor/Documentos/ForExercise/ForExercise.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/victor/.nuget/packages/microsoft.netcore.app.ref/8.0.26/microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.26/microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.26/microsoft.netcore.app.host.linux-x64.8.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

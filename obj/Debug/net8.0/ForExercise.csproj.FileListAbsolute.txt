@@ -12,3 +12,4 @@
 /home/victor/Documentos/ForExercise/obj/Debug/net8.0/ForExercise.pdb
 /home/victor/Documentos/ForExercise/obj/Debug/net8.0/ForExercise.genruntimeconfig.cache
 /home/victor/Documentos/ForExercise/obj/Debug/net8.0/ref/ForExercise.dll
+/home/victor/Documentos/ForExercise/obj/Debug/net8.0/ForExercise.sourcelink.json
